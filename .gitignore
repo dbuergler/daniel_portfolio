@@ -1,0 +1,3 @@
+# api-keys and secrets
+.env
+node_modules
