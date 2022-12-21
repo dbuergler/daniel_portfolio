@@ -108,10 +108,10 @@
 }
 .navbar {
   position: absolute;
-  top: 80.3px;
-  left: 930.76px;
-  width: 513.24px;
-  height: 31.55px;
+  top: 10%;
+  left: 60%;
+  width: 100%;
+  height: 100%;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -121,7 +121,7 @@
 .i-design-and-develop-experienc {
   margin: 0;
   position: absolute;
-  top: 608.94px;
+  top: 60%;
   left: 3%;
   font-size: 25px;
   line-height: 150%;
@@ -178,8 +178,8 @@
 }
 .projects-button {
   position: absolute;
-  top: 0.3px;
-  left: 271.52px;
+  top: 0;
+  left: 20%;
   background-color: var(--color-indigo);
   border: 2px solid var(--color-black);
   box-sizing: border-box;
@@ -192,7 +192,7 @@
 }
 .cta {
   position: absolute;
-  top: 90%;
+  top: 75%;
   left: 3%;
   width: 100%;
   height: 100%;
@@ -205,17 +205,17 @@
 }
 .background-1-icon {
   position: absolute;
-  top: 260.12px;
+  top: 25%;
   left: 65%;
   border-radius: 36px;
-  width: 491.21px;
-  height: 466.79px;
+  max-width: 100%;
+  max-height: 40%;
   object-fit: cover;
 }
 .blank-1-1-icon {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 5%;
   width: 10%;
   height: 20%;
   object-fit: cover;
@@ -266,9 +266,11 @@
 .group-div {
   position: absolute;
   top: 0;
-  left: 10%;
-  width: 1444px;
-  height: 872px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .landing-page {
   position: relative;

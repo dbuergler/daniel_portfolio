@@ -2,7 +2,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600&display=swap");
 
 body {
-  margin: auto;
+  margin-right: auto;
+  margin-left: auto;
   width: auto;
   line-height: normal;
 }

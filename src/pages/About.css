@@ -33,7 +33,7 @@
   text-decoration: none;
   position: absolute;
   top: 1%;
-  left: 0;
+  left: 5%;
   width: 200px;
   height: 200px;
   background-image: url(../../public/blank11@3x.png);
@@ -82,7 +82,7 @@
 .navbar3 {
   position: absolute;
   top: 80.3px;
-  left: 57%;
+  left: 60%;
   width: 513.24px;
   height: 31.55px;
   display: flex;
@@ -404,8 +404,8 @@
 .group-div4 {
   position: absolute;
   top: 0;
-  left: 55px;
-  width: 1245px;
+  left: 5%;
+  width: 100%;
   height: 464.19px;
   text-align: left;
   font-size: var(--font-size-2xl);
@@ -413,9 +413,9 @@
 }
 .group-div3 {
   top: 248px;
-  left: 5%;
-  width: 1384px;
-  height: 1254px;
+  left: 0;
+  width: 100%;
+  height: 100%;
   text-align: center;
   font-size: var(--headings-h4-size);
   color: var(--neutrals-n900);
@@ -423,8 +423,9 @@
 .about {
   position: relative;
   background-color: var(--neutrals-n0);
-  left: 10%;
-  width: 90%;
+  left: 0;
+  overflow: hidden;
+  width: 100%;
   height: 1700px;
   text-align: left;
   font-size: var(--font-size-3xl);
